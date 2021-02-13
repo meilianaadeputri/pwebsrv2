@@ -25,6 +25,7 @@ class Welcome extends CI_Controller {
 
 	public function pweb()
 	{
-		$this->load->view('hellopweb');
+		$this->load->view('Hello!');
+		$this->load->view('Selamat bergabung di kelas PWeb201');
 	}
 }
