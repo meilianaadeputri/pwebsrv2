@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://p-web.click/51018023/namapp/';
+$config['base_url'] = 'http://51018023.p-web.click';
 
 /*
 |--------------------------------------------------------------------------
