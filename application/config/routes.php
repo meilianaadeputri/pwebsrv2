@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['pweb'] = 'welcome/pweb';
-$route['resep'] = 'resep/index';
+$route['resep'] = 'resep/list';
 $route['resep/pallubasa'] = 'resep/palbas';
 
 
