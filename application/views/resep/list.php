@@ -8,7 +8,7 @@
     <h1>Resep Kuliner Nusantara</h1>
     <ul>
       <li>
-        <a href="<?= base_url() ?>/resep/pallubasa">Pallubasa</a>
+        <a href="<?=base_url()?>resep/pallubasa">Pallubasa</a>
       </li>
     </ul>
   </body>
